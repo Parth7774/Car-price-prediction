@@ -1,7 +1,7 @@
 # 🚗 Car Price Prediction System
 
 
-A **machine learning project** built with Python that predicts the price of a car based on various features such as brand, model, year, fuel type, transmission, and mileage.  
+A *machine learning project** built with Python that predicts the price of a car based on various features such as brand, model, year, fuel type, transmission, and mileage.  
 This project uses data preprocessing, feature engineering, and regression models to deliver accurate price predictions.
 
 ---
