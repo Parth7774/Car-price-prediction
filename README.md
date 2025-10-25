@@ -8,7 +8,7 @@ This project uses data preprocessing, feature engineering, and regression models
 
 ## 🧠 Tech Stack
 
-- **Python 3.9+**
+- **Python 3.9+*
 - **Pandas**, **NumPy** – For data handling and preprocessing  
 - **Matplotlib**, **Seaborn** – For data visualization  
 - **Scikit-learn** – For machine learning models and evaluation  
